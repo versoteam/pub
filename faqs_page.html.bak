@@ -1,5 +1,5 @@
 <ul uk-accordion="" class="uk-accordion">
-    <li class="uk-open"><a href="#" class="uk-accordion-title">What is versocash <img style="height:15px;width:auto;" src="https://cdn.jsdelivr.net/gh/versoteam/pub@latest/logo.svg" /> ?</a>
+    <li class="uk-open"><a href="#" class="uk-accordion-title">What is versocash <img style="height:15px;width:auto;" src="/app/logo.svg" /> ?</a>
         <div class="uk-accordion-content">
             <p class="uk-margin-small-bottom">Versocash is a free service that lets you earn crypto back on goods, services, and travel through partnerships with thousands of brands, leading retailers and online services.</p>
             <ul class="uk-list uk-list-collapse uk-list-disc uk-margin-remove-top uk-margin-remove-bottom">
